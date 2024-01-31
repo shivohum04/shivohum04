@@ -1,6 +1,6 @@
 ### Hi there, I'm Shivohum Sanganeria 👋
 
-I completed my Btech CSE with specialisation in AI&ML from [SRM Institute of science and technology](https://www.srmist.edu.in),TN. I am a software developer and specialise in front-end development, recently I have been interested in the field of data science with AIML. I actively take part in projects which are aimed at helping out the masses and aim at the betterment of our society. 
+I completed my Btech CSE with specialisation in AI&ML from [SRM Institute of science and technology](https://www.srmist.edu.in). I am a software developer and specialise in front-end development, recently I have been interested in the field of data science with AIML. I actively take part in projects which are aimed at helping out the masses and aim at the betterment of our society. 
 <!--
 **My Research Interest**:
 - Outlying Aspect Mining
